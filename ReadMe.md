@@ -4,7 +4,7 @@ Destination Tracker is an Android app I solo developed. Use it to keep track of 
 
 ![UserGuidSS](https://github.com/Jonathon-A/Destination-Tracker-Privacy-Policy/assets/61558176/62a5fffa-1c59-4a54-8e36-101575f2fc20)
 
-Some further screenshots of the app in use:
+Some further screenshots of the app in use (light mode):
 
 ![DestinationList](https://github.com/Jonathon-A/Destination-Tracker-App/assets/61558176/b5b91589-2e9e-4987-b726-949084443fff)
 
