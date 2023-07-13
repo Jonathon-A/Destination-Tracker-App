@@ -1,4 +1,4 @@
-Currently working on uploading this app to the app store.
+Currently working on uploading this app to the Google Play Store.
 
 Destination Tracker is an Android app I solo developed. Use it to keep track of your destinations, and keep places for each destination. View all of this on the map or as a list. Keep extra details about places to help you schedule/organise. See the screenshot of the user guide below for more detail.
 
